@@ -16,8 +16,9 @@ Look up the attackers' Geolocation information and plot it on an Azure Sentinel 
 <br />
 
 <p align="center">
-<img src="https://github.com/sakhilesk/Sentinel-Lab/issues/1#issue-2117750167" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src= height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+![api key](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/b43f91de-4633-4407-9d74-01e5b994b8b1)
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
