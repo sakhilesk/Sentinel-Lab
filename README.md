@@ -15,10 +15,10 @@ Look up the attackers' Geolocation information and plot it on an Azure Sentinel 
 <br />
 <br />
 
-<p align="center">
-<img src= height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
 ![api key](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/b43f91de-4633-4407-9d74-01e5b994b8b1)
+<p align="center">
+<h1 RDP event fail logs to iP Geographic information"/>
+</p>
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
@@ -27,18 +27,13 @@ Look up the attackers' Geolocation information and plot it on an Azure Sentinel 
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from all over the world coming in; Custom logs being output with geodata</h2>
 
-<p align="center">
-<img src="https://i.imgur.com/2MViSiL.jpg" (https://imgur.com/2MViSiL) height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
+![Powershell log](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/ce31f142-8dab-4529-88ad-03c1eae4430f)
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
-<p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
-
+![Sentinel](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/d0421cdd-abf1-43f8-ba4f-d5799bcc6291)
 
 <!--
  ```diff
